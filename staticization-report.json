@@ -1,0 +1,34 @@
+{
+  "ok": true,
+  "project": "project-13125331",
+  "generated_at": "2026-08-21 14:20:30",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/",
+    "/about",
+    "/anime/evangelion",
+    "/anime/fullmetal",
+    "/anime/ghost-in-shell",
+    "/anime/gundam",
+    "/anime/inuyasha",
+    "/anime/natsume-book",
+    "/anime/rurouni-kenshin",
+    "/anime/saint-seiya",
+    "/anime/slam-dunk",
+    "/anime/spirited-away",
+    "/anime/tonari-no-totoro",
+    "/anime/yu-yu-hakusho",
+    "/category/jingdian",
+    "/category/kehuan",
+    "/category/qihuan",
+    "/category/rexue",
+    "/category/zhiyu",
+    "/contact",
+    "/faq"
+  ],
+  "route_count": 21,
+  "missing_assets": [],
+  "warnings": [
+    "缺失的非关键本地资源：/vite.svg"
+  ]
+}
